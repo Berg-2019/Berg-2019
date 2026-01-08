@@ -5,7 +5,7 @@ Sou Full Stack Developer especializado em automação, infraestrutura de TI e si
 
 ## 💼 Experiência
 - **Full Stack Developer** - Desenvolvimento de aplicações web e bots
-- **Infraestrutura de TI** - Virtualização com Proxmox, Docker, redes
+- **Infraestrutura de TI** - Virtualização com Proxmox, Docker,Windows Server, Proxmox, Docker, redes empresariais, VLAN, VPN, WAN
 - **Automação Elétrica & Segurança** - Sistemas CFTV, alarmes e monitoramento
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -21,6 +21,9 @@ Sou Full Stack Developer especializado em automação, infraestrutura de TI e si
 
 ### Infraestrutura & DevOps
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense/VPN-212121?style=flat-square&logo=pfsense&logoColor=white)
+![VLAN](https://img.shields.io/badge/-VLAN/Switching-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/-MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
