@@ -34,9 +34,9 @@ Sou Full Stack Developer especializado em automação, infraestrutura de TI e si
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berg-2019&show_icons=true&theme=dark&count_private=true)
+!![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berg-2019&show_icons=true&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berg-2019&layout=compact&theme=dark)
+!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berg-2019&layout=compact&theme=dark)
 
 ## 🌟 Projetos em Destaque
 
